@@ -13,7 +13,7 @@ The goal isn't scale at this point. It's to show how IaaC works end-to-end: desc
 
 ## What Happens
 
-When you run terraform apply, Terraform talks to Azure through the azurerm provider.
+When you run ```terraform apply```, Terraform talks to Azure through the ```azurerm``` provider.
 It sends API calls to create:
 
 1. a resource group named tf-lab-rg,
