@@ -35,13 +35,6 @@ You can run everything directly from Azure Cloud Shell. It already has Terraform
 
 ## Project Layout
 
-terraform-azure-lab/
-- main.tf
-- variables.tf
-- outputs.tf
-- .gitignore
-- README.md
-
 1. main.tf - core config (resource group, network, subnet)
 2. variables.tf - defines location and other inputs
 3. outputs.tf - prints resource names after apply
