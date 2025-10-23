@@ -9,7 +9,7 @@ It creates:
 - one Virtual Network, and
 - one Subnet.
 
-The goal isn't scale at this point. It's to show how IaaC works end-to-end: describe what you want, plan it, apply it, and tear it down cleanly. 
+The goal isn't scale at this point. It's to show how IaC works end-to-end: describe what you want, plan it, apply it, and tear it down cleanly. 
 
 ## What Happens
 
