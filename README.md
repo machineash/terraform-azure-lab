@@ -50,8 +50,8 @@ subnet_name         = "tf-lab-subnet"
 
 ## Lessons Learned
 - First runs can hang while Azure registers providers. Patience is key.
-- The plan/apply/destroy loop teaches how declaractive automation feels hands-on. 
-- Small, working examples are great for learning and can teach faster than complex diagrams.
+- The plan/apply/destroy loop teaches declaractive automation hands-on. 
+- Small, working examples are great for learning and can be more effective than complex diagrams.
 
 ## Next Steps
 - Add a Linux VM and network interface.
